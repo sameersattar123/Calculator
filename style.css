@@ -1,0 +1,28 @@
+.main{
+    background-color: lightgreen;
+    border: 2px solid black;
+    border-radius: 4px;
+    width: 200px;
+    margin: 0 auto;
+}
+.result{
+    width: 94%;
+    background-color: lightblue;
+    color: black;
+    margin: 2px;
+}
+.clearBtn{
+    width: 98%;
+    background-color: lightblue;
+    margin: 2px;
+}
+.halfBtn{
+    background-color: lightblue;
+    width: 45px;
+    margin: 1px;
+}
+.mixBtn{
+    background-color: lightblue;
+    width: 90px;
+    margin: 2px;
+}
